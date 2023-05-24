@@ -1,4 +1,10 @@
 <!-- TOC -->
+https://zico.netlify.app
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2429e873-d952-4ac1-8e48-67e12d6e727f/deploy-status)](https://app.netlify.com/sites/zico/deploys)
+
+http://zico.guanfu.org/
+
 
 - [一个专为中国开发者而生的跨平台图标解决方案](#一个专为中国开发者而生的跨平台图标解决方案)
 - [获得zico程序包](#获得zico程序包)
